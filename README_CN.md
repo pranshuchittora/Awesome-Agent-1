@@ -317,6 +317,12 @@ Agent 行动: analyze(data)
 | **Skyvern** | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 12K+ | 可靠的网页自动化 API；CAPTCHA 处理；生产级稳定性 |
 | **Firecrawl** | [mendableai/firecrawl](https://github.com/mendableai/firecrawl) | 85K+ | 将任意网页转为 LLM 友好 Markdown；去噪；爬虫 + MCP 双模式 |
 
+### 应用测试 Agent
+
+| Agent | 说明 |
+|---|---|
+| **[agent-qa](https://vostride.com)** | 面向开发者的自然语言 Web、Android 和 iOS 测试工具，结合持久化记忆与经过验证的自我改进，支持 CLI/MCP 工作流。[源码](https://github.com/vostride/agent-qa) · FSL-1.1-ALv2。 |
+
 ---
 
 ## 🔬 研究与深度探索 Agent

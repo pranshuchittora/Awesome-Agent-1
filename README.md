@@ -321,6 +321,12 @@ Giving AI the ability to "see the screen, move the mouse, type on the keyboard" 
 | **Skyvern** | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 12K+ | Reliable web automation API; CAPTCHA handling; production-grade stability |
 | **Firecrawl** | [mendableai/firecrawl](https://github.com/mendableai/firecrawl) | 85K+ | Converts any webpage to LLM-friendly Markdown; noise removal; crawler + MCP dual mode |
 
+### Application Testing Agents
+
+| Agent | Description |
+|---|---|
+| **[agent-qa](https://vostride.com)** | Natural-language web, Android, and iOS testing for developers, with persistent memory, validated self-improvement, and CLI/MCP workflows. [Source](https://github.com/vostride/agent-qa) · FSL-1.1-ALv2. |
+
 ---
 
 ## 🔬 Research & Deep Exploration Agents
